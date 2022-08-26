@@ -25,7 +25,7 @@ SSPs are open-source, and open-ended. This lends them to a litany of use cases. 
 
   
 
-<h4> Support for Good-Faith Estimates related to the No-Surprises Act (NoSA)</h4>: NoSA requires providers to render cash-pay estimates to patients that are accurate to within $400 and include an itemization of all likely charges from all providers that may bill the patient. SSPs encapsulate both professional and facility charges, and itemize all procedures and services a patient may receive when undergoing the principal procedure.
+<h4> Support for Good-Faith Estimates related to the No-Surprises Act (NoSA)</h4> NoSA requires providers to render cash-pay estimates to patients that are accurate to within $400 and include an itemization of all likely charges from all providers that may bill the patient. SSPs encapsulate both professional and facility charges, and itemize all procedures and services a patient may receive when undergoing the principal procedure.
 
 
 <h4> Communication of care between providers and payers </h4>SSPs are 5-character alpha-numeric codes. This makes them compatible with 837 and 835 X12 files. There is potential for payers and providers to use SSPs as a new means of care communication and reimbursement that is as transparent, free and open source as the MS-DRG code set.
