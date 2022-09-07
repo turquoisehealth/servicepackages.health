@@ -9,7 +9,7 @@ Turquoise Health Standard Service Packages
 
 ## Overview
 
-Turquoise Health’s repository detailing the methodology for creating Standard Service Packages viewable at https://www.servicepackages.health.
+Turquoise Health’s repository detailing the methodology for creating Standard Service Packages viewable at https://servicepackages.health.
 
 Standard Service Packages (SSPs) is an open-source project that seeks to simplify the communication of care across healthcare bills. Instead of communicating care across multiple bills, codes, and providers for a single encounter, SSPs wrap all charges and codes across bills into a single, easy-to-understand code.
 
